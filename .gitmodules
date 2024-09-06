@@ -1,0 +1,12 @@
+[submodule "java-baseball-6"]
+	path = java-baseball-6
+	url = https://github.com/leemiyeonn/java-baseball-6.git
+[submodule "java-lotto-6"]
+	path = java-lotto-6
+	url = https://github.com/leemiyeonn/java-lotto-6.git
+[submodule "java-racingcar-6"]
+	path = java-racingcar-6
+	url = https://github.com/leemiyeonn/java-racingcar-6.git
+[submodule "java-christmas-6"]
+	path = java-christmas-6
+	url = https://github.com/leemiyeonn/java-christmas-6.git
