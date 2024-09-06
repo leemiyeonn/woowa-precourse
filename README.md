@@ -1,1 +1,1 @@
-# woowa-precourse
+# 🚀 woowa-course
